@@ -1,0 +1,9 @@
+Fuel		CH4
+Temperature 950 1050 1150
+Pressure	300000 400000 500000
+Phi			0.5 1.0 1.5
+End_time	5
+Delta_t		0.001
+Min_size	40
+Tol_igd		0.01
+Tol_Tmax	0.01
